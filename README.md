@@ -2,7 +2,7 @@
 
 Senior Backend Engineer. I build AI-powered platforms, distributed systems, and HPC tooling.
 
-Currently the sole engineer at [Nyayanidhi](https://nyayanidhi.com) — solo-architected an AI legal document processing platform on GCP serverless. Before that: HPC cluster automation at [LRZ](https://www.lrz.de/english/) (1000+ nodes, InfiniBand, SLURM), scaled fintech infra at [Fiserv](https://www.fiserv.com) (3M users, US Treasury stimulus program), and upstream contributions to [GNOME](https://gnome.org).
+Currently an engineer at [Nyayanidhi](https://nyayanidhi.com) — architected an AI legal document processing platform on GCP serverless. Before that: HPC cluster automation at [LRZ](https://www.lrz.de/english/) (1000+ nodes, InfiniBand, SLURM), scaled fintech infra at [Fiserv](https://www.fiserv.com) (3M users, US Treasury stimulus program), and upstream contributions to [GNOME](https://gnome.org).
 
 #### What I've built
 
